@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+
+body {
+    width: 97vw;
+    height: 98vh;
+    background-color: rgb(255, 255, 255);
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+}
+
+.face-container {
+    height: 100vh;
+    width: 20vw;
+    background-color: gray;
+}
+
+.conversation-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    width: 80vw;
+    background-color: rgb(37, 37, 37);
+}
+
+.chat-container {
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+}
+
+#message-container {
+    height: 87%;
+}
+
+#type-container {
+    display: flex;
+    align-items: center;
+    height: 13%;
+    background-color: rgb(27, 27, 27);
+}
+
+input.text-container {
+    width: 97%;
+    margin-left: 20px;
+    padding: 20px;
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+
+input.text-container:focus{
+    outline: none;
+}
+
+span {
+    color: rgb(231, 229, 229);
+    margin-left: -35px;
+    padding: 15px 0;
+}
+
+span:hover {
+    cursor: pointer;
+}
