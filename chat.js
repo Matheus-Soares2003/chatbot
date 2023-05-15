@@ -11,5 +11,36 @@ function sendMessage(){
         return
     }
     mensagem.style.border = "none"
-    alert(mensagem.value)
+    showHistoric(mensagem.value, "Aqui vem a mensagem do chatbot")
+    mensagem.value = ""
+}
+
+function showHistoric(mensagem, resposta){
+    var historico = document.querySelector("#message-container")
+
+    // Minhas Mensagens
+
+    var boxMinhaMensagem = document.createElement('div')
+    boxMinhaMensagem.className = 'box-minha-mensagem'
+
+    var minhaMensagem = document.createElement('p')
+    minhaMensagem.className = 'minha-mensagem'
+    minhaMensagem.innerHTML = mensagem
+
+    boxMinhaMensagem.appendChild(minhaMensagem)
+    historico.appendChild(boxMinhaMensagem)
+
+    // Respostas
+
+    var boxResposta = document.createElement('div')
+    boxResposta.className = 'box-resposta'
+
+    var botMensagem = document.createElement('p')
+    botMensagem.className = 'mensagem-bot'
+    botMensagem.innerHTML = resposta
+
+    boxResposta.appendChild(botMensagem)
+    historico.appendChild(boxResposta)
+
+    historico.scrollTop = historico.scrollHeight
 }
