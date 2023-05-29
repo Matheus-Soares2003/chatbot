@@ -1,0 +1,477 @@
+[
+    {
+        "série": "A",
+        "times": [
+                  "América-MG", 
+                  "Athletico-PR", 
+                  "Atlético-MG", 
+                  "Bahia", 
+                  "Botafogo", 
+                  "Corinthians", 
+                  "Coritiba", 
+                  "Cruzeiro", 
+                  "Cuiabá", 
+                  "Flamengo", 
+                  "Fluminense", 
+                  "Fortaleza", 
+                  "Goiás", 
+                  "Grêmio", 
+                  "Internacional", 
+                  "Palmeiras",
+                  "Bragantino",
+                  "Santos",
+                  "São Paulo",
+                  "Vasco da Gama"
+                ],
+        "idolos": {
+            "América-MG": "Affonso Silviano Brandão\nCelso Mascarenhas\nEuller\nFred\nGeraldino de Carvalho\nGilberto Silva\nJair Bala\nKainço\nMilagres\nSatyro Taboada",
+            "Athletico-PR": "Alex Mineiro\nAssis\nCaju\nCireno\nDjalma Santos\nJackson\nAlberto Gottardi\nSicupira\nZanetti\nWashington",
+            "Atlético-MG": "Dadá Maravilha\nÉder\nGilberto Silva\nJoão Leite\nLuizinho\nNelinho\nPaulo Isidoro\nReinaldo\nToninho Cerezo\nKafunga",
+            "Bahia": "Bobô\nCarlito\nDadá Maravilha\nDaniel Alves\nDouglas\nElizeu\nEmerson\nHamílton\nNonato\nUéslei",
+            "Botafogo": "Garrincha\nNilton Santos\nJairzinho \nDidi\nGérson\nTúlio\nHeleno de Freitas\nQuarentinha\nJefferson\nManga",
+            "Corinthians": "Sócrates\nMarcelinho Carioca\nCássio\nRivelino\nNeto\nLuizinho\nRonaldo Fenômeno\nNeco\nTeleco\nWladimir",
+            "Coritiba": "Alex\nFedato\nHermes\nHidalgo\nKeirrison\nKruger\nNilo\nOberdan\nPachequinho\nRafael Camarota",
+            "Cruzeiro": "Tostão \nDirceu Lopes \nPiazza\n Raul \nJoãozinho \nSorín \nAlex\n",
+            "Cuiabá": "Anderson Conceição\nBogé\nFernando\nJenison\nJean\nFelipe Marques \nEdnei \n",
+            "Flamengo": "Zico \nJunior \nGabigol \nLeandro\nArrascaeta\nZizinho \nLeônidas da Silva \nAdílio\nAndrade \nPetkovic\n\n",
+            "Fluminense": "Fred\nCastilho\nRomerito\nTelê Santana\nAssis\nRivellino\nWaldo\nWashington\nRenato Gaúcho\nConca",
+            "Fortaleza": "Croinha\nLúcio 'Bala'\nRinaldo\nMozarzinho\nPedrinho Simões\nMaizena\nMirandinha\nBosco\nSalvino\nSandro Gaúcho\nDude\nRonaldo Angelim",
+            "Goiás": "Tião Segurado\nLincoln\nPaghetti\nMacalé\nTuíra\nLuvanor\nZé Teodoro\nCacau\nTúlio Maravilha\nBaltazar\nHarlei\n",
+            "Grêmio": "Alcindo\nAírton\nArce\nCalvet\nEurico Lara\nEveraldo\nFoguinho\nHugo de León\nRonaldinho\nRenato Gaúcho",
+            "Internacional": "Falcão\nFernandão\nFigueroa\nGamarra\nManga\nOreco\nPaulo César Carpegiani\nTaffarel\nTesourinha\nValdomiro",
+            "Palmeiras": "Ademir da Guia\nLuís Pereira\nMarcos\nDudu \nJulinho Botelho\nEvair\nDjalma Santos\nJair Rosa Pinto\nDudu \nOberdan Cattani\n",
+            "Bragantino": "Mauro Silva\nBiro Biro\nGil Baiano\nVanderlei Luxemburgo\n",
+            "Santos": "Léo\nDorval\nSerginho Chulapa\nGiovanni\nGilmar\nCoutinho\nLula\nPepe\nNeymar\nPelé\n",
+            "São Paulo": "Cafu\nDarío Pereyra\nCareca\nMuller\nSerginho Chulapa\nRaí\nRogério Ceni\n",
+            "Vasco da Gama": "Mauro Galvão\nFelipe\nEdmundo\nAdemir de Menezes \nJuninho Pernambucano \nRomário\nRoberto Dinamite \n"
+        },
+        "rivais": {
+            "América-MG": "Atlético Mineiro\nCruzeiro",
+            "Athletico-PR": "Coritiba\nParaná Clube",
+            "Atlético-MG": "Cruzeiro\nAmérica Mineiro",
+            "Bahia": "Vitória",
+            "Botafogo": "Flamengo\nFluminense\nVasco da Gama",
+            "Corinthians": "Palmeiras\nSão Paulo\nSantos",
+            "Coritiba": "Athletico Paranaense\nParaná Clube",
+            "Cruzeiro": "Atlético Mineiro\nAmérica Mineiro\nVilla Nova",
+            "Cuiabá": "Dom Bosco\nOperário VG\nLuverdense",
+            "Flamengo": "Botafogo\nFluminense\nVasco da Gama",
+            "Fluminense": "Flamengo\nVasco da Gama\nBotafogo",
+            "Fortaleza": "Ceará\nFerroviário",
+            "Goiás": "Vila Nova\nAtlético Goianiense\nGoiânia",
+            "Grêmio": "Internacional",
+            "Internacional": "Grêmio",
+            "Palmeiras": "Flamengo\nSão Paulo\n Santos\nCruzeiro",
+            "Bragantino": "Ponte Preta",
+            "Santos": "Corinthians\nPalmeiras\nSão Paulo",
+            "São Paulo": "Corinthians\nPalmeiras\nSantos",
+            "Vasco da Gama": "Flamengo\nFluminense\nBotafogo\nAmerica"
+        },
+        "mascote": {
+            "América-MG": "Coelho",
+            "Athletico-PR": "Furacão",
+            "Atlético-MG": "Galo",
+            "Bahia": "Super-Homem Tricolor",
+            "Botafogo": "Manequinho",
+            "Corinthians": "Mosqueteiro",
+            "Coritiba": "Vovô",
+            "Cruzeiro": "Raposa",
+            "Cuiabá": "Dourado",
+            "Flamengo": "Urubu",
+            "Fluminense": "Guerreiro",
+            "Fortaleza": "Leão",
+            "Goiás": "Verdão",
+            "Grêmio": "Mosqueteiro",
+            "Internacional": "Saci",
+            "Palmeiras": "Periquito",
+            "Bragantino": "Touro",
+            "Santos": "Baleia",
+            "São Paulo": "São Paulo",
+            "Vasco da Gama": "Almirante."
+        },
+        "formação": {
+            "América-MG": "Nino Paraíba2\nIago Maidana3\nWanderson4\nMarlon Lopes6\nArthur13\nJúlio César18\nLucas Kal21\nDanilo Avelar22\nMarcinho25\nNicolas30\nÉder33\nRicardo Silva45\nJurandir63\nHeitor69\nRafael Barcelos70\nJonathan Alecxander71\nPaulinho72\nMatheus Schultz73\nSamuel74\nLeandro Martinez5\nMatheuzinho7\nJuninho8\nMartín Benítez10\nAlê16\nBreno Cascardo28\nMateus Henrique36\nYago Souza64\nYago Santos66\nKanté67\nKauã Diniz68\nRodriguinho75\nWellington Paulista9\nFelipe Azevedo11\nGonzalo Mastriani17\nHenrique Almeida19\nMateus27\nEveraldo37\nAdyson44\nGuilherme Papaléo62\nRodrigo Varanda65\nDadá77\nRenato Marques78\nLuan Campos80\nMikael87\nLuo Guofu99",
+            "Athletico-PR": "Khellven2\nZé Ivaldo3\nKaique Rocha4\nFernando Augusto Pereira Bueno Júnior6\nVinicius21\nMádson22\nPedro Henrique34\nMatheus Piauí42\nThiago Heleno44\nPedrinho48\nDaniel Martins51\nDayvisson52\nLeonardo Ataíde60\nLeonardo Derik61\nArthur Zanella97\nFernandinho5\nVitor Bueno8\nDavid Terans10\nHugo Moura17\nLéo Cittadini18\nErick26\nBryan García30\nDudu53\nChiqueti54\nFernando Nava55\nGabriel Araujo56\nJoão Cruz57\nJoão Vitor58\nLucca62\nAlex Santana80\nChristian88\nFrancisco Murilo De Sousa Almeida89\nMarcelo Cirino7\nWillian11\nAgustín Canobbio14\nThiago19\nReinaldo Nascimento Satorno20\nTomás Cuello28\nLuciano Arriagada32\nRômulo35\nVitor Roque39\nRenan50\nJulimar78\nEmersonn90\nPablo92\n\n",
+            "Atlético-MG": "Bruno Fuchs3\nRéver4\nDodô6\nGuilherme Arana13\nIgor Rabello16\nMariano25\nRenzo Saravia26\nMauricio Lemos28\nKauan30\nJemerson34\nRenan Santana39\nNathan Silva40\nRômulo47\nVitor Reis50\nPaulo Vitor\nOtávio5\nEdenilson8\nMatías Zaracho15\nIgor Gomes17\nHyoran20\nRodrigo Battaglia21\nVitor Graziani24\nAllan29\nAlexandre35\nYan Phillipe36\nVictor Hugo37\nPedrinho38\nRubens44\nEmanuel Pereira46\nDaniel Borges48\nPatrick49\nLeonardo Santos2\nHulk7\nCristian Pavón9\nPaulinho10\nEduardo Vargas11\nAlan Kardec14\nPedro Ataíde27\nIsaac41\nCarlos Eduardo42\nCaio Maia43\nAlisson Santana45\n\n",
+            "Bahia": "Vitor Hugo\nGabriel Xavier3\nKanu4\nJhoanner Chavez6\nAndré Dhominique13\nDavid Duarte33\nRaul Gustavo34\nCicinho40\nMarcos Victor44\nRyan66\nMatheus Bahia79\nJulio Cesar5\nCauly Oliveira Souza8\nDanielzinho10\nDiego Rosa17\nEverton18\nLucas Mugni19\nYago Felipe20\nPatrick Verhon23\nNicolás Acevedo26\nThaciano28\nAdemir7\nEveraldo9\nGabriel Teixeira11\nArthur14\nRicardo Goulart16\nVinicius Mingotti21\nVítor Jacaré29\nKayky Chagas37\nKennedy71\n\n",
+            "Botafogo": "Rafael2\nJoel Carli3\nLuis Segovia4\nVíctor Cuesta15\nHugo16\nDaniel Borges20\nFernando Marçal21\nLeonel Di Plácido24\nAdryelson34\nMezenga40\nRyan42\nRamon56\nKawan63\nPhilipe Sampaio94\nDiego Hernández\nDanilo5\nTchê Tchê6\nPatrick de Paula8\nGabriel14\nMarlon Freitas17\nLucas Fernandes18\nMatías Segovia19\nBernardo Valim30\nJacob Montes32\nCarlos Eduardo33\nLucas Piazon43\nAlexandre Balbino47\nKauê Rodrigues Pessanha53\nHenrique Vermudt54\nJP Galvao57\nKayque62\nRaí75\nFelipe Vieira78\nJoao Victor7\nTiquinho Soares9\nGustavo Sauer10\nLuis Henrique11\nDiego Abreu13\nCarlos Alberto27\nJúnior Santos37\nJanderson39\nRafael Lobato67\nSapata69\nFabiano79\nDylan Talero87\nMatheus Nascimento90\n\n",
+            "Corinthians": "Cássio12\nRafael Ramos2\nGil4\nFábio Santos6\nCaetano14\nMatheus Bidu21\nFagner23\nBruno Méndez25\nBiro26\nFabián Balbuena31\nGabriel Caipira42\nJoão Vinícius45\nRenato Santos46\nJoão Pedro47\nFausto Vera5\nMaycon7\nRenato Augusto8\nPaulinho15\nVitor Meer16\nGiuliano20\nVictor Cantillo24\nRoni29\nMatheus Andrade30\nRuan33\nMurillo34\nBreno Bidon35\nWesley Ribeiro36\nDu Queiroz37\nPedrinho39\nGabriel Moscardo44\nHiguinho48\nRyan49\nYuri Alberto9\nRóger Guedes10\nÁngel Romero11\nGiovane17\nJúnior Moraes18\nGustavo Mosquito19\nPedro Henrique27\nAdson28\nArthur Sousa Araújo38\nFelipe41\nKayke Ferrari43\nChrystian77\n\n",
+            "Coritiba": "Henrique3\nJhon Chancellor4\nBruno Viana5\nBenjamín Kuscevic13\nMarcos Vinicius22\nVictor Luis26\nVilar28\nDiogo Batista29\nJean Pedroso47\nThiago Dombroski55\nBruno Gomes6\nAndrey7\nWillian Farias8\nMarcelino Moreno10\nNatanael16\nMatheus Henrique Bianqui17\nGabriel20\nJúnior Urso23\nLiziero31\nJesús Trindade50\nJamerson83\nRuan Assis97\nRodrigo Pinho9\nAlef Manga11\nZé Roberto18\nRobson30\nGabriel Boschilia35\nKaio37\nWesley57\nRobinho77\nWilliam Pottker90\nMatheus Cadorini99\n\n",
+            "Cruzeiro": "William\nWesley2\nMarlon3\nLuciano Castan4\nKaiki16\nMatheus Jussa18\nLucas Da Cruz Oliveira26\nNeris27\nReynaldo29\nIgor Marques33\nPedro Henrique Franklim Martins35\nWallison Luiz5\nMateus Vital7\nNeto Moura8\nNikão10\nFernando Henrique15\nRamiro17\nIan Luccas20\nMachado23\nRichard25\nDaniel48\nJapa77\nBruno Nascimento9\nWesley11\nGilberto21\nStenio Zanetti Toledo22\nArielson Sampaio Galvão30\nBilu31\nJuan Christian Pereira Coelho70\nDavó88\nHenrique Dourado99\n\n",
+            "Cuiabá": "Uendel\nMatheus Alexandre2\nVitão3\nMarllon4\nJoão Maraninir30\nAlan Empereur33\nAllyson34\nItaro Patric94\nMatheusinho98\nVictor Yan\nRikelme\nRonald\nFilipe Augusto5\nRonald8\nPablo Cepellini10\nWellington Silva11\nRaniele14\nDenilson27\nFernando Sobral88\nPablinho\nJonathan Cafú7\nIsidro Pitta9\nDeyverson16\nEmerson Negueba17\nVinicius20\nNicolás Quagliata25\nJosé Ricardo Batista Cerqueira54\nGabryel Vinicius84\nIury99\n\n",
+            "Flamengo": "Gullermo Varela2\nRodrigo Caio3\nLéo Pereira4\nAyrton Lucas6\nFabrício Bruno15\nFilipe Luís16\nDavid Luiz23\nPablo30\nCleiton33\nMateuzinho34\nJosé Welinton39\nWesley França43\nMarcos Paulo Lima Batista Silva47\nDiego Damasceno50\nDaniel Sales51\nDarlan54\nIago Teodoro Da Silva Nogueira\nErick Pulgar5\nÉverton Ribeiro7\nThiago Maia8\nGiorgian de Arrascaeta14\nLorran19\nGerson20\nVictor Hugo29\nArturo Vidal32\nIgor48\nEvertton Gustavo Fernandes Araújo52\nWeverson53\nWallace Yan De Souza Barreto57\nJean Carlos58\nLucas Furtado Dos Santos60\nJoão Marcos61\nDaniel Rogério62\nRayan63\nCaio Vinicius64\nPedro9\nGabriel Barbosa10\nEverton11\nWerton26\nBruno Henrique27\nMarinho31\nPetterson37\nAndré Luiz Inácio Da Silva38\nMatheus Gonçalves40\nRyan41\nMatheus França42\nMateus Lima46\nRodrigo59\n\n",
+            "Fluminense": "Samuel Xavier2\nVitor Mendes4\nJorge6\nMarcelo12\nFelipe De Andrade Vieira13\nGuga23\nManoel26\nNino33\nLuis Fernando36\nLuan40\nKayky41\nDavid Braz44\nJefte Vital Da Silva Dias46\nRafael Monteiro47\nErick48\nEsquerdinha53\nAlexsander5\nAndré7\nMartinelli8\nGanso10\nJoão Pedro Silverio Lourenco15\nFreitas16\nGabriel Pirani20\nJhon Arias21\nArthur Wenderrosky Sanches28\nThiago Santos29\nFelipe Melo30\nIsaac32\nEdinho34\nGiovanni37\nThiago Henrique42\nLima45\nYago51\nGustavo Dohmann52\nJohn Kennedy9\nKeno11\nGermán Cano14\nAgner17\nAlan18\nAlexandre Jesus19\nJoao Neto35\nMarrony38\nKauã Elias39\nGustavo Lobo43\nAbner Vinícius49\nLelê99\n\n",
+            "Fortaleza": "Tinga2\nBrayan Ceballos3\nTiti4\nMarcelo Benevenuto5\nBruno Pacheco6\nLucas Esteves13\nBernardo Schappo14\nEmanuel Britez19\nDudu20\nSammuel26\nRaheem Somersall37\nJoão Henrique42\nKauã43\nPatrick Nunes44\nRiquelme45\nGeilson Souza48\nGustavo49\nTomás Pochettino7\nCaio Alexandre8\nLucas Crispim10\nJosé Welison17\nYago Pikachu22\nVinicius25\nCalebe27\nHércules35\nRyan39\nBrayan50\nMichel Cavalcante52\nCaio de Maria54\nVinicius Gabriel55\nLucas Sasha88\nJuan Martín Lucero9\nRomarinho11\nSilvio Romero18\nMoisés21\nGuilherme Augusto29\nAlexsandro Amorim31\nPedro Rocha32\nWendel46\nIarley Barros51\nLanderson53\nThiago Galhardo91\n\n",
+            "Goiás": "Daniel Camargo Nolasco\nMaguinho 2\nLucas Halter3\nSidimar 4\nSander 6\nBruno Santos13\nGustavo Xavier16\nBruno Melo19\nEdu 43\nDiego Caito44\nHugo 66\nTata97\nCarlos Maia\nAndrey\nZé Ricardo5\nFellipe Bastos8\nJulián Palacios10\nWillian 12\nLuiz Filipe 14\nFelipe15\nAriel18\nNathan26\nVinicius Rodrigues30\nEverton Morelli40\nHalerrandrio42\nKaká45\nGuilherme60\nJhonny Lucas77\nVinícius7\nDiego 11\nMatheus Peixoto17\nWendell18\nJackson 20\nKauan21\nApodi 22\nEduardo Simioni25\nAlesson 27\nMatheus Santos30\nPedrinho31\nDenzel Damasceno35\nValber Junior37\nVítor Castro38\nNicollas39\nMateus Luiz41\nAlan Stence49\nGuilherme Silva50\nLucas Emannuel79\nPhilippe90\nGabriel Novaes99\n\n",
+            "Grêmio": "Fabio2\nPedro Geromel3\nWálter Kannemann4\nDiogo Barbosa6\nBruno Uvini15\nJoão Pedro18\nReinaldo22\nNathan Ribeiro Fernandes32\nBruno Alves34\nNata36\nJoão Pedro Ramos Oliveira43\nJosé Guilherme De Lima Costa46\nGustavo Martins53\nCuiabano54\nThomas58\nNathan7\nFelipe Carballo Ares8\nVinicius11\nEverton13\nLucas Silva16\nGustavinho17\nFranco Cristaldo19\nMathias Villasanti20\nPepê23\nRonald Falkoski35\nDarlan Mendes37\nBitello39\nMila45\nLuis Henrique Hoffmann48\nLuis Suárez9\nFerreira10\nJhonata Robert25\nDiego Souza29\nLian Dos Santos Da Silva38\nRonald Barcellos40\nAndré Henrique77\n\n",
+            "Internacional": "Mário Fernandes2\nJoão Dalla Corte3\nRodrigo Moledo4\nRené6\nEvertow13\nFabricio Bustos16\nIgor Gomes21\nNicolás Hernández22\nGabriel Mercado25\nCarlos Eduardo29\nThauan Lara36\nFelipe De Souza Motta Marins43\nVitão44\nVinicius Rangel Da Silva47\nRômulo\nValentín Albano\nLucas Farias5\nAllex8\nAlan Patrick10\nCarlos De Peña14\nLucas Ramos15\nGustavo Campanharo17\nCharles Aránguiz20\nGabriel23\nEstevao Barreto26\nMauricio27\nJohnny Cardoso30\nGustavo Prado32\nGabriel Baralhas33\nAnderson39\nMatheus Dias41\nGabriel Teixeira50\nJean Dias\nGabriel De Sousa Barros\nWendel7\nLuiz Adriano9\nWanderson11\nJhonatan Kauan18\nEnzo19\nPedro Henrique28\nAlexandre Alemão35\nVinícius Souza37\nLucca45\nMatteo Amoroso46\nAllan Aniz48\nRicardo Mathias49\n\n",
+            "Palmeiras": "Marcos Rocha2\nVanderlan6\nMayke12\nLuan13\nGustavo Gómez15\nJoaquín Piquerez22\nMurilo26\nGustavo32\nMichel33\nIan Custódio36\nVitor Nunes43\nGabriel Vareta44\nDavid Kauã48\nGilberto52\nPedro Felipe53\nLuis Benedetti54\nZé Rafael8\nJosé López18\nEduard Atuesta20\nRaphael Veiga23\nGabriel Menino25\nRichard Rios27\nJailson30\nKaiky Naves34\nFabinho35\nPatrick Silva38\nJhonatan40\nLeo Azevedo45\nPedro Lima50\nVitor De Almeida Narciso André55\nThalys60\nDudu7\nEndrick9\nRony10\nBruno Tabata11\nArtur14\nGiovani17\nBreno19\nRafael Navarro29\nLuis Guilherme31\nKevin Macedo37\nDaniel Silva39\nRiquelme41\nKauan Santos47\nWendell Gabriel49\n\n",
+            "Bragantino": "Eduardo Santos\nLeonardo Realpe2\nLéo Ortiz3\nNatan4\nAderlan Silva13\nKevin Lomónaco14\nLucas Cunha20\nJuninho Capixaba29\nLuan Patrick30\nGuilherme Almeida31\nJosé Hurtado34\nLuan Cândido36\nCipriano38\nJhonny Cardinoti Pedro41\nJonathan42\nGustavo Henrique Da Silva46\nIgnacio Laquintana\nHenry Mosquera\nJadsom5\nRamires7\nLucas Evangelista8\nRaul23\nChumbinho24\nBruno Conceicão25\nMatheus Fernandes35\nEverton43\nCaetano47\nNathan48\nMarcelinho Braz50\nAlerrando9\nHelinho11\nBruno Gonçalves17\nThiago Borbas18\nEduardo Sasha19\nTalisson De Almeida21\nGustavinho22\nMarcos Vinicios27\nVitinho28\nKawê39\nWerik45\n\n",
+            "Santos": "Luiz Felipe2\nFelipe Jonatan3\nEduardo Gabriel4\nGabriel Inocencio12\nJoão Lucas13\nNathan22\nMessias24\nLeonardo Zabala26\nPedrinho27\nJoaquim28\nAlex31\nJair Paula32\nMaicon33\nKevyson Costa E Silva38\nThiago Balieiro39\nLucas Pires44\nAlison5\nSandry6\nYeferson Soteldo10\nRodrigo Fernández14\nIvonei Rabelo15\nVinicius17\nDouglas Moreira19\nGabriel Carabajal20\nLucas Barbosa21\nLucas Lima23\nCamacho29\nBalão35\nEd Carlos37\nKevin Malthus45\nMiguel Terceros47\nDaniel Ruíz7\nMarcos Leonardo9\n ngelo Gabriel11\nStiven Mendoza20\nLucas Braga30\nDeivid Washington36\nCadu40\nFernandinho41\nWeslley Batista43\nBruno Mezenga88\nLuan97\n\n",
+            "São Paulo": "Igor2\nNahuel Ferraresi3\nDiego Costa 4\nRobert Arboleda5\nWelington6\nRafinha 13\nLuis Orejuela17\nAlan Franco28\nJoão Moreira30\nRaí Ramos34\nLucas Beraldo35\nPatryck 36\nJoão Douglas43\nMatheus Souza44\nNathan Mendes 45\nAndré Anderson\nLuan 8\nRodrigo Nestor11\nGiuliano Galoppo14\nMichel Araújo15\nRodriguinho 18\nGabriel Neves20\nJhegson Méndez21\nWellington Rato 27\nPablo Maia 29\nTalles Costa37\nFelipe Negrucci46\nPedro Veronez47\nAlexandre Pato\nAlisson 7\nJonathan Calleri9\nLuciano 10\nPedrinho12\nDavid 22\nTalles Wander25\nKing Faisal26\nJuan 31\nMarcos Paulo32\nCaio Matheus33\nCaio Paulista 38\nNewertton39\nGabriel Maioli40\nIba Ly41\nKaiky42\nAzeez Balogun48\nErison49\n\n",
+            "Vasco da Gama": "José Luis Rodríguez2\nLéo3\nGabriel Dias13\nManuel Capasso22\nJosé Gabriel23\nPaulinho29\nRobson Bambu30\nLyncon Correa Gonçalves33\nMiranda35\nLucas Piton36\nZé Vitor44\nRiquelme45\nPaulo Victor66\nPaulo Henrique96\nPatrick De Lucca5\nJair8\nLucas Figueiredo15\nAndrey Santos18\nMatías Galarza19\nGabriel Carabajal20\nMarlon Gomes25\nRodrigo26\nMatheus Carvalho Dos85\nCauan Barros88\nAlex Teixeira7\nPedro Raúl9\nGabriel Pec11\nRwan Seco12\nLuca Orellano14\nErick Marcus16\nVinicius Paiva17\nEguinaldo21\nRayan Rocha77\nGabriel Souza Da Silva99\n\n"
+        },
+        "goleiros": {
+            "América-MG": "Matheus Cavichioli1\nJori12\nMateus14\nRóbson23\nEduardo Freire76\nCarlos Eduardo79\n\n",
+            "Athletico-PR": "Bento1\nLeo Linck23\nMycael41\nGabriel Pereira43\nLeandro Filipe59\nMatheus Rocha63\n\n",
+            "Atlético-MG": "Gabriel Delfim1\nDiego Fernandes12\nÉverson22\nMatheus Mendes31\nGabriel Atila32\n\n",
+            "Bahia": "Danilo Fernandes1\nTiago Gomes12\nMarcos Felipe22\nClaus77\n\n",
+            "Botafogo": "Roberto Fernández1\nLucas Perri12\nDouglas Borges22\nJoao Fernando Monteiro Siqueira31\nIgo Gabriel52\n\n",
+            "Corinthians": "Kauê Camargo1\nCássio12\nCarlos Miguel22\nMatheus Donelli32\nFelipe Longo40\nCadu50\n\n",
+            "Coritiba": "Gabriel1\nMarcão12\nLuan Polli27\nSidnei64\n\n",
+            "Cruzeiro": "Rafael1\nGabriel Mesquita12\nRodrigo da Silva41\nAnderson Paixão98\n\n",
+            "Cuiabá": "Peruchi\nWalter1\nJoão Carlos21\nVinicius26\n\n",
+            "Flamengo": "Santos1\nKauã Santos24\nMatheus Cunha25\nHugo Souza45\nDyogo49\n\n",
+            "Fluminense": "Fábio1\nPedro Rangel22\nCayo Fellipe27\nGustavo Ramalho Bremer Pinto50\nVitor Eudes98\n\n",
+            "Fortaleza": "Bruno Souza\nJoão Ricardo1\nKennedy12\nFernando Miguel16\nMauricio Kozlinski30\nCarlos Brito40\nKhendran41\n\n",
+            "Goiás": "Tadeu 23\nEzequiel29\nMarcelo Rangel88\nMatheus Alves94\n\n",
+            "Grêmio": "Brenno1\nGabriel Chapecó12\nAdriel31\nFelipe4\n\n",
+            "Internacional": "Keiller1\nEmerson Júnior12\nAnthoni24\nJohn31\nKauan34\n\n",
+            "Palmeiras": "Vinicius1\nWeverton21\nNatan24\nMarcelo Lomba42\nKaique51\n\n",
+            "Bragantino": "Cleiton1\nMaycon Cleiton12\nFabrício37\nLucão40\nFernando Costa49\n\n",
+            "Santos": "Vladimir1\nJoão Paulo34\nBreno42\nPaulo Mazoti50\nDiogenes52\n\n",
+            "São Paulo": "Leandro Mathias Silva Bueno\nFelipe Alves1\nRafael 23\nYoung 50\nJandrei93\n\n",
+            "Vasco da Gama": "Léo Jardim1\nHalls24\nCadu57\nIvan97\n\n"
+        },
+        "curiosidades": {
+            "América-MG": [	
+                "O América-MG é conhecido como Coelho e sua mascote é um coelho chamado Coelhão",
+                "O clube tem uma rivalidade histórica com o Atlético-MG, conhecida como 'Clássico das Multidões'",
+                "O estádio do América-MG é o Estádio Independência, localizado em Belo Horizonte, Minas Gerais"
+            ],
+            "Athletico-PR": [
+                "O Atlético Paranaense é conhecido como Furacão e sua mascote é o Furacãozinho",
+                "O clube possui um dos estádios mais modernos do Brasil, a Arena da Baixada, em Curitiba, Paraná",
+                "O Atlético-PR conquistou a Copa Sul-Americana em 2018, sendo o primeiro clube paranaense a vencer uma competição internacional."
+
+            ],
+            "Atlético-MG": [
+                "O Clube Atlético Mineiro, conhecido como Atlético-MG ou Galo, tem como mascote o galo Galo Doido",
+                "O clube possui uma grande rivalidade com o Cruzeiro, conhecida como Clássico Mineiro",
+                "O Atlético-MG conquistou a Copa Libertadores da América em 2013, sendo um dos maiores feitos de sua história"
+            ], 
+            "Bahia": [
+                "O Esporte Clube Bahia, conhecido como Bahia ou Esquadrão de Aço, tem como mascote o Super-Homem Tricolor",
+                "O clube possui uma rivalidade histórica com o Vitória, conhecida como Ba-Vi",
+                "O Bahia foi o primeiro clube nordestino a conquistar a Copa do Nordeste"
+            ], 
+            "Botafogo": [
+                "O Botafogo de Futebol e Regatas é conhecido como Botafogo ou Fogão, e sua mascote é o Manequinho",
+                "O clube possui uma das torcidas mais apaixonadas do Rio de Janeiro e é um dos grandes clubes cariocas",
+                "O estádio do Botafogo é o Estádio Nilton Santos, também conhecido como Engenhão"
+            ], 
+            "Corinthians": [
+                "O Sport Club Corinthians Paulista, conhecido como Corinthians ou Timão, tem como mascote o Mosqueteiro",
+                "O clube possui uma das maiores torcidas do Brasil e é um dos clubes mais vitoriosos do país",
+                "O Corinthians foi campeão mundial em 2000 e 2012, além de ter conquistado vários títulos nacionais e estaduais"
+            ], 
+            "Coritiba": [
+                "O Coritiba Foot Ball Club, conhecido como Coritiba ou Coxa-Branca, tem como mascote o Vovô",
+                "O clube possui uma grande rivalidade com o Atlético-PR, conhecida como Atletiba",
+                "O Coritiba já conquistou o Campeonato Brasileiro da Série A em 1985 e tem uma das maiores torcidas do Paraná"
+            ], 
+            "Cruzeiro": [
+                "O Cruzeiro Esporte Clube, conhecido como Cruzeiro ou Raposa, tem como mascote a Raposa Azul",
+                "O clube possui uma grande rivalidade com o Atlético-MG, conhecida como Clássico Mineiro",
+                "O Cruzeiro é um dos clubes mais vitoriosos do Brasil, tendo conquistado vários títulos nacionais e internacionais"
+            ], 
+            "Cuiabá": [
+                "O Cuiabá Esporte Clube é o mais novo clube entre os mencionados, fundado em 2001",
+                "O clube conquistou o acesso à Série A do Campeonato Brasileiro em 2020, sendo sua primeira participação na elite do futebol nacional",
+                "O Cuiabá manda seus jogos na Arena Pantanal, um dos estádios utilizados na Copa do Mundo de 2014"
+            ], 
+            "Flamengo": [
+                "O Clube de Regatas do Flamengo, conhecido como Flamengo ou Mengão, tem como mascote o Urubu",
+                "O Flamengo possui uma das maiores torcidas do Brasil e é um dos clubes mais populares do país",
+                "O clube conquistou a Copa Libertadores da América em 1981 e 2019, além de ter vários títulos nacionais e estaduais"
+            ], 
+            "Fluminense": [
+                "O Fluminense Football Club, conhecido como Fluminense ou Flu, tem como mascote o Guerreiro",
+                "O clube possui uma grande rivalidade com o Flamengo, conhecida como Fla-Flu",
+                "O Fluminense conquistou vários títulos nacionais e internacionais, incluindo a Copa do Brasil e o Campeonato Brasileiro"
+            ], 
+            "Fortaleza": [
+                "O Fortaleza Esporte Clube, conhecido como Fortaleza ou Leão do Pici, tem como mascote o Leão",
+                "O clube possui uma grande rivalidade com o Ceará, conhecida como Clássico-Rei",
+                "O Fortaleza conquistou o acesso à Série A do Campeonato Brasileiro em 2018 e se firmou como uma equipe competitiva"
+            ], 
+            "Goiás": [
+                "O Goiás Esporte Clube, conhecido como Goiás ou Esmeraldino, tem como mascote o Goiás",
+                "O clube possui uma grande rivalidade com o Vila Nova, conhecida como Clássico Goiano",
+                "O Goiás já conquistou títulos estaduais e teve participações na Série A do Campeonato Brasileiro"
+            ], 
+            "Grêmio": [
+                "O Grêmio Foot-Ball Porto Alegrense, conhecido como Grêmio ou Imortal Tricolor, tem como mascote o Mosqueteiro",
+                "O clube possui uma grande rivalidade com o Internacional, conhecida como Grenal",
+                "O Grêmio conquistou a Copa Libertadores da América em 1983 e 1995, além de ter vários títulos nacionais e estaduais"
+            ], 
+            "Internacional": [
+                "O Sport Club Internacional, conhecido como Internacional ou Colorado, tem como mascote o Saci",
+                "O clube possui uma grande rivalidade com o Grêmio, conhecida como Grenal",
+                "O Internacional foi campeão mundial em 2006 e conquistou a Copa Libertadores da América em 2006 e 2010"
+            ], 
+            "Palmeiras": [
+                "A Sociedade Esportiva Palmeiras, conhecida como Palmeiras ou Verdão, tem como mascote o Periquito",
+                "O clube possui uma das maiores torcidas do Brasil e é um dos mais vitoriosos do país",
+                "O Palmeiras conquistou a Copa Libertadores da América em 1999 e 2020, além de ter vários títulos nacionais e estaduais"
+            ],
+            "Bragantino": [
+                "O Clube Atlético Bragantino, conhecido como Bragantino ou Massa Bruta, tem como mascote o Touro",
+                "O clube tem uma parceria com a Red Bull, o que trouxe investimentos e o retorno à Série A do Campeonato Brasileiro em 2020",
+                "O Bragantino conquistou títulos estaduais e teve participações na Série A do Campeonato Brasileiro"
+            ],
+            "Santos": [
+                "O Santos Futebol Clube, conhecido como Santos ou Peixe, tem como mascote a Orca",
+                "O clube possui uma das maiores tradições no futebol brasileiro e revelou grandes jogadores, como Pelé",
+                "O Santos conquistou a Copa Libertadores da América três vezes e já foi campeão mundial em duas ocasiões"
+            ],
+            "São Paulo": [
+                "O São Paulo Futebol Clube, conhecido como São Paulo, Tricolor ou SPFC, tem como mascote o São Paulo",
+                "O clube possui uma das maiores torcidas do Brasil e é um dos mais vitoriosos do país",
+                "O São Paulo conquistou a Copa Libertadores da América três vezes consecutivas (2005, 2006 e 2007) e já foi campeão mundial em três ocasiões"
+            ],
+            "Vasco da Gama": [
+                "O Club de Regatas Vasco da Gama, conhecido como Vasco, tem como mascote o Gigante da Colina",
+                "O clube possui uma das torcidas mais apaixonadas do Brasil e é um dos grandes clubes cariocas",
+                "O Vasco já conquistou a Copa Libertadores da América em 1998 e teve várias conquistas no futebol brasileiro"
+            ]
+        }
+    },
+    {
+        "série": "B",
+        "times": [
+            "ABC",
+            "Atlético-GO",
+            "Avaí",
+            "Botafogo-SP",
+            "CRB",
+            "Ceará",
+            "Chapecoense",
+            "Criciúma",
+            "Guarani",
+            "Ituano",
+            "Juventude",
+            "Londrina",
+            "Mirassol",
+            "Novorizontino",
+            "Ponte Preta",
+            "Sampaio Corrêa",
+            "Sport Recife",
+            "Tombense",
+            "Vila Nova",
+            "Vitória"
+        ],
+        "idolos": {
+            "ABC": "Ivan Silva\nAlberi\nCascata\nMárcio Passos\nFranklin\nAlberico",
+            "Atlético-GO": "Zé Carlos\nMárcio\nMarinho\nWashington \"Coração Valente\"\nVanderlei Paiva\nGilson Batata",
+            "Avaí": "Marquinhos\nWilliam\nEvando\nEmerson Nunes\nZunino\nSaul Oliveira",
+            "Botafogo-SP": "Sócrates\nRaí\nWilson Mano\nZenon\nDicá\nCarlos Roberto",
+            "CRB": "Aloísio Chulapa\nZé Carlos\nFernandão\nFlávio Boaventura\nPaulo Rogério\nMarcelo Nicácio",
+            "Ceará": "Sérgio Alves\nMagno Alves\nGivanildo Oliveira\nLisca Doido\nVavá\nMota",
+            "Chapecoense": "Danilo\nCleber Santana\nBruno Rangel\nNivaldo\nWellington Paulista\nApodi",
+            "Criciúma": "Zé Carlos\nGrizzo\nRodrigo Mendes\nÉder\nRoberto Cavalo\nRoberto Fernandes",
+            "Guarani": "Amoroso\nCareca\nZenon\nEvair\nNeto\nZenon",
+            "Ituano": "Marcelinho Paulista\nSimão\nRodrigão\nJuninho Paulista\nRatinho\nRonaldo Guiaro",
+            "Juventude": "Valdir Espinosa\nTúlio Maravilha\nMaurício\nZetti\nMarcos Denner\nTeco",
+            "Londrina": "Carlos Alberto Garcia\nDagoberto\nBrandãozinho\nGermano\nJoão Paulo\nArthur",
+            "Mirassol": "Xuxa\nEsquerdinha\nSouza\nDanilo Pereira\nRicardinho\nAndré Luiz",
+            "Novorizontino": "Magrão\nHélio dos Anjos\nBiro-Biro\nCleisson\nFernando Gaúcho\nPedrinho Maradona",
+            "Ponte Preta": "Dicá\nWashington\nRui Rei\nMarco Aurélio Cunha\nDicão\nFio",
+            "Sampaio Corrêa": "Edgar\nMimica\nHiltinho\nPimentinha\nArlindo Maracanã\nCleitinho",
+            "Sport Recife": "Magrão\nDurval\nLeonardo\nFumagalli\nJuninho Pernambucano\nDadá Maravilha",
+            "Tombense": "Élvis\nAdeílson\nEdson Mendes\nDaniel Amorim\nEverton Heleno\nToty",
+            "Vila Nova": "Túlio Maravilha\nDimba\nCléber Gaúcho\nMarcos Aurélio\nWando\nRamalho",
+            "Vitória": "Dida\nBebeto\nRamon Menezes\nPetković\nPaulo César Carpegiani\nOsni"
+        },
+        "rivais":{
+            "ABC": "América de Natal\nSanta Cruz.",
+            "Atlético-GO": "Goiás\nVila Nova\nCRAC\n",
+            "Avaí": "Figueirense\nJoinville \n Criciúma.\n",
+            "Botafogo-SP": "Comercial\nGuarani\n",
+            "CRB": "CSA\nASA\n",
+            "Ceará": "Fortaleza\nFerroviário\n",
+            "Chapecoense": "Figueirense \n Avaí\n",
+            "Criciúma": "Joinville\n Avaí\n",
+            "Guarani": "Ponte Preta\nMogi Mirim\n",
+            "Ituano": "não possui grandes rivais tradicionais",
+            "Juventude": "Caxias\nBrasil de Pelotas\n",
+            "Londrina": "Maringá\nCoritiba\n",
+            "Mirassol": "não possui grandes rivais tradicionais.",
+            "Novorizontino": "não possui grandes rivais tradicionais.",
+            "Ponte Preta": "Guarani\nSão Paulo\n Palmeiras\n Corinthians\n",
+            "Sampaio Corrêa": "Fortaleza.",
+            "Sport Recife": "Náutico\nSanta Cruz.\n",
+            "Tombense": "não possui grandes rivais tradicionais",
+            "Vila Nova": "Goiás\nAtlético-GO\n",
+            "Vitória": "Bahia\nSport Recife \n Ceará.\n"
+        },
+        "mascote": {
+            "ABC": "Elefante",
+            "Atlético-GO": "Dragão",
+            "Avaí": " Leão",
+            "Botafogo-SP": "Pantera",
+            "CRB": "Galo",
+            "Ceará": "Gato",
+            "Chapecoense": "índio Condá",
+            "Criciúma": "Tigre",
+            "Guarani": "Besouro",
+            "Ituano": "Ìndio",
+            "Juventude": "Papo-seco",
+            "Londrina": "Cobra coral",
+            "Mirassol": "Leão",
+            "Novorizontino": "Tigre",
+            "Ponte Preta": "Macaco",
+            "Sampaio Corrêa": "Tubarão",
+            "Sport Recife": "Leão",
+            "Tombense": "Gavião",
+            "Vila Nova": "Tigre",
+            "Vitória": " Leão"
+        },
+        "formação": {
+            "ABC": "Marquinhos Carioca\nItalo Cabelinho\nLuiz Gustavo3\nHabraão4\nStephannyo Afonso Lopes de Oliveira15\nGustavo Daniel15\nRichardson17\nGedeilson Vander Alves de Oliveira18\nJean Patrick22\nDaniel Vancan33\nAlemão51\nMárcio Azevedo64\nWalfrido\nRenan Souza\nDaniel5\nMatheus Aleksander dos Anjos7\nJailson8\nAllan Dias10\nThonny Anderson10\nFábio Lima11\nWellington Rodrigues14\nRaphael Luz Pessoa16\nCaique19\nRamon Vinicius Dos Santos20\nThallyson21\nJhonnathan26\nWallace27\nBruninho55\nGustavo Hebling96\nRafael Silva\nFelipe Garcia\nLucas Tocantins\nMike\nLucas Gonçalves De Paula9\nGil Robson18\nTodinho30\nMaycon75\nLuccas Romário88\nWelliton97\nJosé Leonardo Veríssimo Do Nascimento99\n\n",
+            "Atlético-GO": "Emerson Santos\nRodrigo\nRamon Menezes\nJefferson\nJuninho\nMatheus Guedes\nHeron\nLuan Sales Do Nascimento\nRenan Silva\nLucas Xavier Gazal\nVinicius\nGuilherme\nJoao Victor\nRenato Alves de Mendonca\nMikael Guterres Michel\nMatheus Sales\nAngelo Araos\nMarco Antônio\nShaylon\nRhaldney\nThiago\nMatheus Silva\nGustavo15\nDavid Francisco18\nKelvin\nLuiz Fernando\nBruno\nGustavo Coutinho\nAirton\nIgor Torres\nDaniel\nMatheus Régis\n\n",
+            "Avaí": "Alan\nDidi\nMarquinhos Cipriano\nIgor\nVitor Hugo Paes Do Santo\nIgor Dutra2\nRoberto 4\nThiago Rosa6\nWellington Ferreira Nascimento15\nModesto17\nNatanael Pimienta25\nJoão Eugênio33\nFelipe Camargo34\nFelipe Florencio Da Silva35\nRaphael44\nThales 72\nWellington\nJean Lucas Figueiredo\nXavier\nPeçanha\nEduardo 8\nRobinho10\nJean Cleber16\nGazão18\nVitinho 20\nArthur Macae21\nRafael Gava23\nFabricio Baiano27\nKazu55\nAndrey 78\nGeovane Santos99\nSantiago Patino\nDentinho 7\nRicardo Bueno9\nWaguininho 13\nGustavo28\nGuilherme30\nFelipe Rocha38\nJúlio César 94\n\n",
+            "Botafogo-SP": "Lucas Costa\nJean\nDavid\nVidal\nPatrick Brey\nEricson Da Silva\nDiogo Silva\nThassio\nGustavo Cipriano\nMarcio Silva\nCarlinhos\nGuilherme Miranda Madruga Gomes\nLuiz Henrique\nEdson Guilherme Mendes dos Santos\nFillipe Soutto\nTarik\nTomás Andrade\nMantuan\nLucas Lourenço\nGustavo Simon Vertuoso\nMarcos Antonio Augusto Junior\nArthur\nLucas Cardoso\nPedro Henrique\nJoão Costa\nIgor Eduardo\nCarlos Manuel\nOsman Junior\nRobinho\nSalatiel\nLucas Oliveira\nBruno Rafael Alves Dos Santos\nWillian\nJoão Henrique Oliveira Veras19\n\n",
+            "CRB": "Saimon\nOctavio\nDarlisson\nLuiz Henrique\nMatheus Ribeiro2\nGum3\nFábio Augusto Schirmann4\nGuilherme Romão6\nAnderson14\nGilvan15\nMatheus Miguel Guimaraes Alves17\nEdimar26\nDiogo Hereda Da Silva32\nRiquelme\nAuremir5\nJuninho Valoura8\nRafael Longuine10\nRenato11\nJoão Paulo18\nEverson19\nAnderson Leite22\nLucas Lima33\nLéo Silva38\nRômulo77\nLucas Falcao98\nHyuri\nGabriel Da Conceição Dos Santos\nJonathan Copete7\nAnselmo Ramon9\nTatá Baiano11\nDavid Brall17\nMike20\nEto'o24\n\n",
+            "Ceará": "Léo Santos\nLucas Ribeiro\nDavid\nJefferson\nTiago3\nDavid Loiola4\nLuiz Otavio13\nGabriel Lacerda15\nWillian Formiga22\nDanilo Barcelos23\nMíchel Macedo88\nZé Ricardo\nCaique5\nRichardson6\nArthur8\nJean10\nPedro Lucas19\nLéo Rafael80\nWillian Maranhão95\nGuilherme Castilho99\nPedro Antonio Pimentel Ferreira\nLeandro Carvalho7\n\n",
+            "Chapecoense": "Bruno Leonardo\nDouglas Borel\nFelipe2\nVictor Ramos3\nCris Silva6\nRonei Gebing15\nCleylton23\nRafael Ribeiro30\nRodrigo Freitas32\nMauricio33\nJoão Cesco43\nKevin66\nMancha80\nFelipe\nPablo Siles\nMauricio\nPablo5\nGiovanni Confreste7\nKaio8\nNeto13\nArthur Vanzela16\nPaulinho21\nBruno Vinicius22\n\n",
+            "Criciúma": "Walisson Maia\nMatheus Mancini\nRayan\nRodrigo\nHelder Santos\nCristovam\nMarcelo Hermes\nClaudio Coelho Salvático\nGuilherme Silva\nThiago Mina\nJonathan Lemos13\nArilson\nMarquinhos Gabriel\nFellipe Mateus\nÍtalo Melo\nLéo Costa\nRômulo\nCrystopher\nThiago Alves Da Rosa\nMiqueias\nLéo Gonçalves\nFernando Canesin Matos55\nÉder\nTiago Marques\nLohan\nFelipe Vizeu\nWelinton\nFabinho\nJoão Carlos\nEduardo28\n\n",
+            "Guarani": "Eliel Da Silva\nLucão3\nJosé Walber De Mota De Amorim4\nMayk6\nAlan Santos12\nDiogo Mateus13\nDiego Porfirio15\nTiti16\nYan Henrique Rodrigues Da Silva30\nMatheus Barbosa5\nLima8\nAlexis Alvariño14\nMatheus Bueno18\nLucas Araujo21\nWenderson23\nBruno Roberto27\nBernardo28\nIsaque Elias Brito29\nRégis78\nNicolas Careca\nFilipe Chrysman De Figueiredo Lima\nNeilton7\nBruno Mendes9\nDerek11\nBruno José17\nLucas Silva19\nJoão Victor20\nRafael Freitas26\nTheo Henrique Lanza Francisco28\n\n",
+            "Ituano": "Carlão\nClaudinho\nRafael Pereira\nPacheco\nMário Sérgio\nMarcel Philipe Afonso Genestra Scalese\nFrazan\nJonathan\nIury\nAlessandro\nMadison Rafael Ferreira Alves\nErik\nVinicius Poz15\nThiaguinho\nYann Rolim\nLucas\nMarcelo Freitas\nBruno Cesar Xavier Sislo\nEduardo Luiz Person\nJosé Aldo\nMartha\nMatheus Aluisio Dos Santos\nNeto Berola\nRafael Silva\nDiego De Souza Quirino\nFelipe\nAlejandro Santana\nBrayan Diogo Ijorski Kruger\nRafael Carvalheira\nHélio\nPaulo Victor\nVinícius Faria\n\n",
+            "Juventude": "Abner\nDaniel Guedes2\nZe Marcos3\nDanilo Boza4\nRomario17\nGerardo Gordillo20\nDaniel22\nWalce23\nAlan Ruschel28\nCauã Da Rocha36\nRomércio53\nFelipe Carvalho88\nReginaldo93\nJean5\nVitinho6\nEmerson Santos7\nWesley Hudson Da Silva8\nFernando Boldrin10\nDavid Conceição11\nJádson16\nKelvyn21\nPará26\nRafael Rech30\nLuis Mandaca44\nGuilherme Gehring47\nNenê77\nPedro Machado77\nÉlton\nLuiz Fernando Felipe Dos Santos\nHenrique Padilha\nRodrigo Rodrigues9\nRoberto14\nGabriel Aires19\nRuan29\nEchaporã33\nVini Paulista36\nDaniel39\n\n",
+            "Londrina": "Xandao\nLéo\nEzequiel\nPatrick\nSalomão\nGuilherme\nDa Silva\nGabriel Knesowitsch\nArthur Silva\nJoão Paulo\nJuan Díaz\nHigor\nDiego Jardel\nMoisés\nCarlos\nLucas de Sá\nLuis Vinicius Nunes Cavalcante\nPedro Cacho\nDanilo Matheus Garcia Gomes De Oliveira\nGarraty\nKassio\nLuiz Gustavo\nNatham\nHugo\nCaio\nDouglas Coutinho\nPaulinho\nClayton\nJúnior Dutra\nVitor Feijão\nIago\nVictor Daniel\nVinícius Jaú\nJose Junior\nDanilo\nVictor Hugo Ramos De Souza\nMatheus Goiás\nArinze Clinton Udeh\nBrandão\nNicolas Schulz\nMatheus Lucas18\n\n",
+            "Mirassol": "Bruno Cortez\nLucas Ramon\nLuiz Otávio\nThalisson Kelven\nReniê\nManoel Ferreira Lima Neto\nHeitor\nGuilherme Biro\nBreno\nRodrigo Sam13\nLuan\nDanielzinho\nCamilo\nChico\nYuri\nPaulinho\nLeandro Vilela\nFlávio\nKauan\nLuiz Fernando\nMiguel\nWellington Alves\nCristian Renato Gonçalves Riquelme19\nNegueba\nGabriel\nSilvinho\nFernando\nVico\n\n",
+            "Novorizontino": "Raul Prata\nBruno Silva\nCésar\nLigger\nRoberto\nRenato Silveira\nReverson\nWillean Lepu\nAdriano Martins Da Fonseca\nGuilherme Matos\nHiago Ribeiro Campelo\nLuis Fellipe\nRicardinho\nGeovane\nLeonardo\nMarlon\nDenner Melz\nJoão Pedro de Giuli\nDaiki Matsuoka\nClaudinei\nJose Mateus Junior\nBiel\nRonaldo\nBryan Rabello\nJenison\nAylon\nDouglas Baggio\nRodolfo\nRenan Gorne\nBruno\nFelipe Marques\nLeonardo Barcelar\nRomulo\nLucas Brune\n\n",
+            "Ponte Preta": "Mateus\nDiogo Ribeiro\nMaílton dos Santos2\nThomas Martins de Lima3\nFilipinho6\nThiago Oliveira Lopes13\nArtur15\nJúnior Tavares22\nWeverton23\nFábio Sanches27\nGuilherme Souza39\nAndre Henrique\nEdson\nEduardo Processo\nLeo Naldi5\nRamon8\nÉlvis10\nNicolas Araujo Da Silva11\nLuiz Felipe Oliveira De Paula14\nSamuel18\nFelipe Amaral19\nMatheus Jesus20\nCassinho21\nJean Carlos Dos Santos26\nWesley Fraga32\nÉverton\nPablo Dyego\nEduardo Hatamoto7\nEliel9\nPaulo Baya16\nGuilherme Henrique17\nJeh19\n\n",
+            "Sampaio Corrêa": "Pará\nJoécio Barbosa dos Santos\nBuiu\nFabio\nMateus Pivó\nAlyson\nVitinho\nVinicius Leonardo Da Silva\nFelipe Cauã\nGustavo Henrique4\nRafael Vila\nParaíba\nEloir\nMarcinho\nOtávio\nJhony\nGabriel Vinicius De Oliveira Furtado\nMaurício\nRodrigo Souza\nWendell\nEmerson Souza\nPepeu\nAlexandre Tam21\nYtalo\nPimentinha\nPatrick\nVinicius Rodrigues Alves\nBill\nNadson Da Silva Mesquita\nMatheus Martins\nCláudio Cebolinha\nVenícius\n\n",
+            "Sport Recife": "Alisson Cassiano\nEwerton2\nFilipinho6\nRenzo13\nRafael Thyere15\nIgor Cariús16\nEduardo26\nSabino35\nChico44\nVictor Gabriel52\nMarcelo54\nMatheus Miranda58\nPedro\nFábio Matheus\nRonaldo5\nFabinho7\nMatheus Vargas8\nJorginho10\nJoão Igor28\nItalo39\nDeyvson42\nLucas André55\nJuan Xavier56\nWanderson77\nFacundo Labandeira\nVágner Love9\nEdinho11\nKayke17\nLuciano46\nPaulinho53\nGean Carlos57\nGabriel Santos90\nFabrício Daniel97\n\n",
+            "Tombense": "Roger Carvalho\nGuilherme Oliveira\nDavid\nEgídio\nPedro\nKevin\nAugusto\nEmerson Barbosa\nWesley Augusto Henn Marth\nWisney Junio Dias Carvalho\nLuis Felipe\nZé Vitor\nElton\nBruno Silva\nRhayner\nItalo Henrique dos Santos Soares\nMatheus Frizzo\nPierre\nJoão Pedro Mendes\nKeylon Batiz\nPatricio Gregorio\nFranco Mederos\nLuiz Fernando\nDaniel Amorim\nFernandão\nKeke\nJaderson\nMarcelinho\nAlex Sandro\nCaique Calito\nKleiton\nFelipe Ferreira Da Cruz19\n\n",
+            "Vila Nova": "Rafael Donato\nDiego Renan\nUlisses Wilson Jeronymo Rocha\nJordan\nLeonardo Da Silva Cruz\nMarcelinho\nEduardo Doma\nRodrigo\nLucas\nRian Pacheco\nMarcondes4\nIgor Henrique18\nRalf\nLuciano Francisco\nMarlone\nVan Basty\nLourenco\nRickson\nCristiano\nJoão Lucas Vilela De Sousa\nMatheus Jesus\nDaniel\nVictor Andrade\nCaio Dantas\nGuilherme Parede\nRonald\nNeto\nEverton Sidnei De Brito\nMatehus Souza\nJoão Celeri\n\n",
+            "Vitória": "Vincente\nJoão Lucas\nDankler\nZeca\nGuilherme Lazaroni\nMarcelo\nJoão Victor Carroll\nFelipe Vieira\nCamutanga\nWagner Leonardo\nDiego Fumaça\nJohn\nMarco Antônio\nYan\nGiovanni Augusto\nWellington Nem\nGegê\nDiego Torres\nMatheus\nThiago Lopes\nRodrigo Andrade\nTrindade\nLéo Gomes\nPedro Bicalho\nEduardo\nAlan Pedro\nRailan Reis Ferreira\nJobert\nCharlys\nLéo Gamalho\nSantiago Tréllez\nOsvaldo\nPablo\nWelder\nRafinha Diniz\nNicolás Dibble\nRuan Nascimento Dos Santos\nHugo\nWanderson\n\n"
+        },
+        "goleiros": {
+            "ABC": "Cleyton\nSimao Verza Bertelli1\nMatheus Refundini12\nWellington90\n\n",
+            "Atlético-GO": "Ronaldo\nPedro Paulo Ferreira Barbosa Da Costa\nDiego Terra Loureiro\nMárcio Defendi\n\n",
+            "Avaí": "Arthur Silveira\nIgor José Bohn1\nAlexander 53\nOtávio66\nYgor Vinhas87\n\n",
+            "Botafogo-SP": "Victor Souza\nMatheus\nHenrique\nLevy\n\n",
+            "CRB": "Júlio César\nFábio\nVitor Caetano1\nDiogo Silva12\nJoão Vitor23\n\n",
+            "Ceará": "Cristian De Lima\nRichard1\nAlfredo Aguilar12\nAndré Luiz67\nBruno94\n\n",
+            "Chapecoense": "Airton1\nJoão Paulo31\nPavan46\nTiepo98\n\n",
+            "Criciúma": "Gustavo\nAlisson\nKauã Moroso\nVinícius Oliveira Da Purificação\n\n",
+            "Guarani": "Pegorari1\nAlvaro22\nAntonio Eduardo Furquim de Freitas Batista25\nVinicius Salustiano Darriux Alexandre31\n\n",
+            "Ituano": "Jefferson\nDevity Cherutti\nWesley\nLeonardo\n\n",
+            "Juventude": "Thiago Couto1\nLéo12\nWilliam21\nLucas Wingert99\n\n",
+            "Londrina": "Lucas Frigeri\nSaulo\nHélio Neneca\n\n",
+            "Mirassol": "Darley Torres\nAlex Muralha\nCésar\nArthur Henrique Bittencourt\nGustavo Henrique Lacerda Ferreira\n\n",
+            "Novorizontino": "Georgemy\nJordi\nLucas\nVinicius\n\n",
+            "Ponte Preta": "Guilherme Viana\nPedro1\nCaíque12\nLuan30\n\n",
+            "Sampaio Corrêa": "Luiz Daniel\nThiago Braga\nEduardo Maranhão\n\n",
+            "Sport Recife": "Jordan\nDênis1\nDenival32\nRenan33\nAntônio Adriano41\n\n",
+            "Tombense": "Felipe Garcia dos Prazeres\nPaulo Vitor\nLeo Lang\nJean\n\n",
+            "Vila Nova": "Vanderlei\nJúnior\nVitor Hugo\nKayque Maranhão\n\n",
+            "Vitória": "Dalton Alan Munaretto\nThiago Rodrigues\nYuri Sena\nLucas Arcanjo\n\n"
+        },
+        "curiosidades": {
+            "ABC": [
+                "O ABC é o clube mais antigo do estado do Rio Grande do Norte, fundado em 29 de junho de 1915",
+                "O estádio do ABC, conhecido como Frasqueirão, tem capacidade para mais de 18.000 torcedores",
+                "O ABC é conhecido como Mais Querido e possui uma grande rivalidade com o América-RN, seu principal adversário loca"
+            ],
+            "Atlético-GO": [
+                "O Atlético-GO é um dos clubes mais tradicionais do estado de Goiás, fundado em 2 de abril de 1937",
+                "O estádio do Atlético-GO é o Estádio Antônio Accioly, com capacidade para cerca de 12.000 torcedores",
+                "O Atlético-GO tem como mascote o Dragão e sua torcida é conhecida como Dragões Atleticanos"
+            ],
+            "Avaí": [
+                "O Avaí foi fundado em 1º de setembro de 1923 e é um dos principais clubes de Santa Catarina",
+                "O estádio do Avaí é a Ressacada, localizado em Florianópolis, com capacidade para aproximadamente 17.800 torcedores",
+                "O Avaí tem como mascote o Leão da Ilha e possui uma grande rivalidade com o Figueirense, outro clube da cidade"
+            ],
+            "Botafogo-SP": [
+                "O Botafogo-SP foi fundado em 12 de outubro de 1918 e é um dos clubes mais antigos do estado de São Paulo",
+                "O estádio do Botafogo-SP é o Estádio Santa Cruz, localizado em Ribeirão Preto, com capacidade para cerca de 30.000 torcedores",
+                "O Botafogo-SP é conhecido como Pantera e tem como cores o preto e o branco"
+            ],
+            "CRB": [
+                "O CRB (Clube de Regatas Brasil) foi fundado em 20 de setembro de 1912 e é um dos clubes mais tradicionais de Alagoas",
+                "O estádio do CRB é o Estádio Rei Pelé, em Maceió, com capacidade para mais de 17.000 torcedores",
+                "O CRB tem como mascote o Galo da Pajuçara e tem uma grande rivalidade com o CSA, outro clube alagoano"
+            ],
+            "Ceará": [
+                "O Ceará Sporting Club foi fundado em 2 de junho de 1914 e é um dos principais clubes do estado do Ceará",
+                "O estádio do Ceará é a Arena Castelão, localizada em Fortaleza, com capacidade para mais de 60.000 torcedores",
+                "O Ceará tem como mascote o Vovô e possui uma forte rivalidade com o Fortaleza, o outro grande clube da cidade"
+            ],
+            "Chapecoense": [
+                "A Associação Chapecoense de Futebol foi fundada em 10 de maio de 1973 e tem sede na cidade de Chapecó, em Santa Catarina",
+                "A Chapecoense ganhou projeção nacional e internacional após o trágico acidente aéreo em 2016, que vitimou a maioria de sua equipe",
+                "O estádio da Chapecoense é a Arena Condá, com capacidade para mais de 19.000 torcedores"
+            ],
+            "Criciúma": [
+                "O Criciúma Esporte Clube foi fundado em 13 de maio de 1947 e representa a cidade de Criciúma, em Santa Catarina",
+                "O Criciúma conquistou seu maior título em 1991, quando venceu a Copa do Brasil, se tornando o primeiro clube do sul do Brasil a conquistar um título nacional",
+                "O estádio do Criciúma é o Estádio Heriberto Hülse, com capacidade para aproximadamente 19.000 torcedores"
+            ],
+            "Guarani": [
+                "O Guarani Futebol Clube foi fundado em 1º de abril de 1911 e é um dos clubes mais antigos do estado de São Paulo",
+                "O Guarani conquistou seu maior título em 1978, quando foi campeão brasileiro da Série A",
+                "O estádio do Guarani é o Brinco de Ouro da Princesa, localizado em Campinas, com capacidade para cerca de 30.000 torcedores"
+            ],
+            "Ituano": [
+                "O Ituano Futebol Clube foi fundado em 24 de maio de 1947 e representa a cidade de Itu, no interior de São Paulo",
+                "O Ituano ganhou projeção nacional ao conquistar o Campeonato Paulista em 2002 e o Campeonato Brasileiro Série C em 2003",
+                "O estádio do Ituano é o Estádio Novelli Júnior, com capacidade para aproximadamente 16.000 torcedores"
+            ],
+            "Juventude": [
+                "O Esporte Clube Juventude foi fundado em 29 de junho de 1913 e é um dos principais clubes do estado do Rio Grande do Sul",
+                "O Juventude conquistou seu maior título em 1999, quando foi campeão da Copa do Brasil",
+                "O estádio do Juventude é o Alfredo Jaconi, localizado em Caxias do Sul, com capacidade para cerca de 23.000 torcedores"
+            ],
+            "Londrina": [
+                "O Londrina Esporte Clube foi fundado em 5 de abril de 1956 e representa a cidade de Londrina, no Paraná",
+                "O Londrina conquistou seu maior título em 2014, quando foi campeão da Série D do Campeonato Brasileiro",
+                "O estádio do Londrina é o Estádio do Café, com capacidade para mais de 31.000 torcedores"
+            ],
+            "Mirassol": [
+                "O Mirassol Futebol Clube foi fundado em 9 de novembro de 1925 e representa a cidade de Mirassol, em São Paulo",
+                "O Mirassol ganhou destaque ao chegar na final do Campeonato Paulista em 2020, sendo vice-campeão",
+                "O estádio do Mirassol é o Estádio Municipal José Maria de Campos Maia, com capacidade para cerca de 14.000 torcedores"
+            ],
+            "Novorizontino": [
+                "O Grêmio Novorizontino foi fundado em 1º de janeiro de 2010 e representa a cidade de Novo Horizonte, em São Paulo",
+                "O Novorizontino conquistou o acesso à Série C do Campeonato Brasileiro em 2019, marcando sua ascensão no cenário nacional",
+                "O estádio do Novorizontino é o Estádio Dr. Jorge Ismael de Biasi, com capacidade para aproximadamente 10.000 torcedores"
+            ],
+            "Ponte Preta": [
+                "A Associação Atlética Ponte Preta foi fundada em 11 de agosto de 1900 e é um dos clubes mais tradicionais do estado de São Paulo",
+                "A Ponte Preta é conhecida como Macaca e possui uma das torcidas mais apaixonadas e fiéis do estado",
+                "O estádio da Ponte Preta é o Estádio Moisés Lucarelli, com capacidade para cerca de 19.000 torcedores"
+            ],
+            "Sampaio Corrêa": [
+                "O Sampaio Corrêa Futebol Clube foi fundado em 25 de março de 1923 e representa a cidade de São Luís, no Maranhão",
+                "O Sampaio Corrêa tem como mascote o Tubarão e seu estádio é o Estádio Governador João Castelo, conhecido como Castelão",
+                "O clube conquistou o acesso à Série B do Campeonato Brasileiro em 2013, alcançando um importante feito na sua história"
+            ],
+            "Sport Recife": [
+                "O Sport Club do Recife foi fundado em 13 de maio de 1905 e é um dos clubes mais antigos e tradicionais do Brasil",
+                "O Sport Recife é conhecido como Leão da Ilha e possui uma grande rivalidade com o Náutico, outro clube de Recife",
+                "O estádio do Sport Recife é a Ilha do Retiro, com capacidade para cerca de 32.000 torcedores"
+            ],
+            "Tombense": [
+                "O Tombense Futebol Clube foi fundado em 1º de janeiro de 1914 e representa a cidade de Tombos, em Minas Gerais",
+                "O Tombense ganhou destaque nos últimos anos, chegando à Série B do Campeonato Brasileiro pela primeira vez em 2020",
+                "O estádio do Tombense é o Estádio Antônio Guimarães de Almeida, com capacidade para cerca de 5.000 torcedores"
+            ],
+            "Vila Nova": [
+                "O Vila Nova Futebol Clube foi fundado em 29 de julho de 1943 e é um dos clubes mais tradicionais de Goiás",
+                "O Vila Nova tem como mascote o Tigrão e possui uma grande rivalidade com o Goiás, seu principal adversário local",
+                "O estádio do Vila Nova é o Estádio Onésio Brasileiro Alvarenga, com capacidade para cerca de 13.500 torcedores"
+            ],
+            "Vitória": [
+                "O Esporte Clube Vitória foi fundado em 13 de maio de 1899 e é um dos clubes mais antigos do futebol brasileiro",
+                "O Vitória é conhecido como Leão da Barra e tem como rival o Bahia, com quem protagoniza o clássico Ba-Vi",
+                "O estádio do Vitória é o Estádio Manoel Barradas, popularmente conhecido como Barradão, com capacidade para cerca de 30.000 torcedores"
+            ]
+        }
+    }
+]
