@@ -7,15 +7,16 @@ CORS(app)
 @app.route('/chatbot', methods=['POST'])
 def chatbot():
     data = request.get_json()
-    response = handle_request(data)
+    message = data['message'] #aqui é onde eu recebo a mensagem do front-end
+    response = handle_request(message)
     return jsonify(response)
 
-def handle_request(request):
+def handle_request(mensagem):
     # Aqui você pode implementar a lógica do seu chatbot
     # e retornar uma resposta no formato esperado pelo seu widget de chat
     return {
         'type': 'text',
-        'content': 'Olá! Eu sou um chatbot criado em Python.'
+        'content': mensagem #aqui é o que eu vou retornar
     }
 
 if __name__ == '__main__':
