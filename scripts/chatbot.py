@@ -18,7 +18,7 @@ def chatbot():
 
 def handle_request(mensagem):
     
-    pergunta = mensagem.lower().replace(',', ' ')
+    pergunta = mensagem.lower().replace(',', ' ').replace('?', ' ').replace('.', ' ')
     palavras_chave = pega_palavras_chave(pergunta)
 
     if len(palavras_chave) < 2:

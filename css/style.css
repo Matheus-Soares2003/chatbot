@@ -27,6 +27,8 @@ main {
 }
 
 .giphy-embed {
+    margin-left: 150px;
+    margin-top: 150px;
     width: 100%;
     height: 100%;
 }
